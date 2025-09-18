@@ -1,7 +1,27 @@
 # Plano de Resposta a Incidentes e Gerenciamento de Ameaças
 
+## 🏆 Participação na Maratona Cisco de Cibersegurança
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Cisco-Marathon%20Brazil%202025-blue" alt="Cisco Marathon 2025">
+  <img src="https://img.shields.io/badge/Institution-FATEC%20Ipiranga-0056A7" alt="FATEC Ipiranga">
+  <img src="https://img.shields.io/badge/Status-Concluído-brightgreen" alt="Status: Concluído">
+</div>
+
 ## Introdução
-Projeto final da 11ª Maratona Cisco de Cibersegurança, demonstrando um plano completo de segurança para um cenário de ataque simulado.
+Projeto final desenvolvido como parte da 11ª Maratona Cisco de Cibersegurança, representando com orgulho a FATEC Ipiranga. Este trabalho demonstra um plano completo de segurança para um cenário de ataque simulado, aplicando os conhecimentos adquiridos durante a competição.
+
+Foi uma grande satisfação participar desta maratona e concluí-la com sucesso, representando minha instituição e aprimorando minhas habilidades em segurança cibernética.
+
+### 🏅 Certificação e Reconhecimento
+
+<div align="center">
+  <h3>Badge de Conclusão</h3>
+  <img src="assets/images/badge.png" alt="Badge de Conclusão da Maratona Cisco" width="200">
+  
+  <h3>Certificado de Conclusão</h3>
+  <img src="assets/images/certificado.png" alt="Certificado de Conclusão" width="400">
+</div>
 
 ## Estrutura do Projeto
 - `evidencias_analise/`: Contém logs, alertas e capturas de rede
@@ -21,5 +41,18 @@ Projeto final da 11ª Maratona Cisco de Cibersegurança, demonstrando um plano c
 pip install -r requirements.txt
 ```
 
+## Agradecimentos
+
+Gostaria de expressar minha gratidão:
+- À **Cisco** pela oportunidade de participar desta maratona incrível
+- À **FATEC Ipiranga** pelo suporte e incentivo
+- Aos mentores e colegas que contribuíram para meu aprendizado
+
 ## Licença
 Este projeto está licenciado sob a licença MIT - veja o arquivo [LICENSE](LICENSE) para detalhes.
+
+---
+<div align="center">
+  <p>Desenvolvido com ❤️ por Thiago Silva</p>
+  <p>Como parte do desafio da 11ª Maratona Cisco de Cibersegurança - 2025</p>
+</div>
