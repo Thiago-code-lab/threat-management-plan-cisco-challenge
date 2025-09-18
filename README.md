@@ -4,7 +4,7 @@
 
 <div align="center">
   <img src="https://img.shields.io/badge/Cisco-Maratona%20Brasil%202025-blue" alt="Maratona Cisco 2025">
-  <img src="https://img.shields.io/badge/Institution-FATEC%20Ipiranga-0056A7" alt="FATEC Ipiranga">
+  <img src="https://img.shields.io/badge/Instituição-FATEC%20Ipiranga-0056A7" alt="FATEC Ipiranga">
   <img src="https://img.shields.io/badge/Status-Concluído-brightgreen" alt="Status: Concluído">
 </div>
 
