@@ -53,6 +53,6 @@ Este projeto está licenciado sob a licença MIT - veja o arquivo [LICENSE](LICE
 
 ---
 <div align="center">
-  <p>Desenvolvido com ❤️ por Thiago Silva</p>
+  <p>Desenvolvido com ❤️ por Thiago Cardoso Davi</p>
   <p>Como parte do desafio da 11ª Maratona Cisco de Cibersegurança - 2025</p>
 </div>
