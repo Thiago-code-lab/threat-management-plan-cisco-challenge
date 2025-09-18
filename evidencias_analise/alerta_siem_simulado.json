@@ -1,0 +1,29 @@
+{
+  "alert_id": "SIEM-2025-0917-001",
+  "timestamp": "2025-09-17T10:15:30-03:00",
+  "severity": "High",
+  "description": "Multiple failed login attempts detected",
+  "source_ip": "192.168.1.100",
+  "destination_ip": "192.168.1.200",
+  "event_count": 15,
+  "events": [
+    {
+      "timestamp": "2025-09-17T10:10:15-03:00",
+      "event_type": "Failed Login",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36",
+      "username": "admin"
+    },
+    {
+      "timestamp": "2025-09-17T10:10:16-03:00",
+      "event_type": "Failed Login",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36",
+      "username": "administrator"
+    },
+    {
+      "timestamp": "2025-09-17T10:10:17-03:00",
+      "event_type": "Failed Login",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36",
+      "username": "root"
+    }
+  ]
+}
